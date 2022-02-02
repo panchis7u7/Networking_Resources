@@ -1,5 +1,5 @@
 ## Private VLANs.
-+ git@github.com:panchis7u7/Networking_Resources.git
++ [Private Vlan Configuration.](https://www.cisco.com/c/en/us/td/docs/switches/datacenter/nexus1000/sw/4_2_1_s_v_2_2_1/layer2/b_Cisco_Nexus_1000V_Layer_2_Switching_Configuration_Guide_Release_4_2_1_SV_2_2_1/b_Cisco_Nexus_1000V_Layer_2_Switching_Configuration_Guide_Release_4_2_1_SV_2_2_1_chapter_0101.html)
 
 ## Netflow.
 + [Cisco NetFlow Configuration Guide.](https://www.cisco.com/c/en/us/td/docs/ios-xml/ios/netflow/configuration/xe-16/nf-xe-16-book/cfg-nflow-data-expt-xe.html)
